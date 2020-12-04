@@ -1,0 +1,36 @@
+.tabName {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.box {
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #fff;
+    transition: all .5s;
+    font-size: 20px;
+}
+
+.box:hover {
+    cursor: pointer;
+    transform: scale(1.08);
+}
+
+.box h1 {
+    font-size: 50px;
+}
+
+.one {
+    background-color: rgba(230,126,34 ,.8);
+}
+
+.two {
+    background-color: rgba(243,156,18 ,.8);
+}
+
+.three {
+    background-color: rgba(231,76,60 ,8);
+}

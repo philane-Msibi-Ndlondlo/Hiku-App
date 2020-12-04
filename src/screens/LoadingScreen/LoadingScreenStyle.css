@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .app {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    padding-bottom: 20px;
+    resize: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    width: 100%;
+    height: 500px;
+  }
+  
+  .appName {
+    font-size: 30px;
+    display: block;
+    text-align: center;
+  }
+  
+  .appLoadingText {
+    font-size: 14px;
+    text-align: center;
+  }

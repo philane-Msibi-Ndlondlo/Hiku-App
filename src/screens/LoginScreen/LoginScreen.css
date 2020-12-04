@@ -1,0 +1,64 @@
+.full-height {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    -webkit-app-region: drag;
+}
+
+.leftPanel, .rightPanel {
+    display: block;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+
+}
+
+.leftPanel {
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+
+.rightPanel {
+    justify-content: center;
+    align-items: center;
+    background-color: #adeac7;
+}
+
+.user {
+    width: 140px;
+    height: 140px;
+}
+
+.no-drag {
+
+    -webkit-app-region: no-drag;
+}
+
+.loginBtn {
+    display: block;
+    width: 100%;
+    background-color: #4fbb7c;
+}
+
+.loginBtn:hover {
+    background-color: #4fbb7c;
+}
+
+.text-center {
+    text-align: center;
+    display: block;
+    font-size: 14px;
+    margin-top: 10px;
+}
