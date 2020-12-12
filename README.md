@@ -6,6 +6,8 @@ ___
 Preview Pics
 
 ![Hiku](https://images.ctfassets.net/d8xmlp2haryb/7c9OLJoZKQW76rav8vv3lw/df665eabb7c6e0b51eca170928c2fa13/hiku.PNG?h=250)
+![Hiku](https://images.ctfassets.net/d8xmlp2haryb/7FygXIsXfu29KiqZxQZTEq/9cd7b59c11f61b7f9b058269cdd8e9cb/Hiku.gif?h=250)
+
 
 ___
 
