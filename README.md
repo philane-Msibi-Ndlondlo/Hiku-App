@@ -1,7 +1,5 @@
 # Progress Tracker App - Hiku
 
-[View the app here](https://hawky.herokuapp.com/)
-
 This is a web and desktop app that tracks user's progress in terms of tasks and subtasks.
 ___
 
